@@ -1,5 +1,0 @@
-# ninja log v6
-2	79	7504720784043884	CMakeFiles/calculator.dir/calculator.cpp.obj	6e2084aed9b82113
-80	202	7504720784825054	libcalculator.a	7fcfd03c514a6d9b
-5	825	7504720784043884	CMakeFiles/calculator_main.dir/main.cpp.obj	4ec9cb9fd4b8fec1
-826	949	7504720792168006	calculator_main.exe	9ac6387ec4cee2cc
